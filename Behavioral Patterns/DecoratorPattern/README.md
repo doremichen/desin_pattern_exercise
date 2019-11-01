@@ -1,0 +1,2 @@
+# DecoratorPattern
+Decorator pattern allows a user to add new functionality to an existing object without altering its structure.
