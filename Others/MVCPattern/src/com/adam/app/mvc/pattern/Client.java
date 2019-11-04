@@ -35,6 +35,8 @@ public class Client {
         Utils.info(Client.class, model.toString());
         // modify model
         controller.modifyModel("Change data");
+        // Show current model
+        Utils.info(Client.class, model.toString());
         
 
     }
